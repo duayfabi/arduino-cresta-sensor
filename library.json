@@ -1,0 +1,13 @@
+{
+    "name": "Cresta 433mhz sensor",
+    "keywords": "sensor, cresta, 433",
+    "description": "A tiny library to simulate a Cresta thermo/hydro sensor sensor. This library have a small memory footprint and can be used with tiny MCUs (like Atmel ATtiny85/84).",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/duayfabi/arduino-cresta-sensor.git"
+    },
+    "version": "1.0.3",
+    "frameworks": "arduino",
+    "platforms": "*"
+}
